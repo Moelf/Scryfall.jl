@@ -1,6 +1,9 @@
 # scryfall.jl
 A Julia wrapper for basic functionality of https://scryfall.com --- a MtG all-in-one look-up site.
 
+| **Build Status**                                                                                |
+|:-----------------------------------------------------------------------------------------------:|
+| [![][travis-img]][travis-url]|
 
 **Installation**: note yet in Julia registry so you will need to clone this repo and follow [this guide](https://docs.julialang.org/en/v1.0.0/stdlib/Pkg/#Using-someone-else's-project-1)
 
@@ -23,3 +26,5 @@ getImgurl("Black lotus",setCode="LEB")
 ```
 
 
+[travis-img]: https://travis-ci.org/Moelf/scryfall.jl.svg?branch=master
+[travis-url]: https://travis-ci.org/Moelf/scryfall.jl
