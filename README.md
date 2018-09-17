@@ -1,5 +1,5 @@
 # scryfall.jl
-A Julia wrapper for basic functionality of https://scryfall.com --- a MtG all-in-one look-up site.
+*A Julia wrapper for basic functionality of https://scryfall.com --- a MtG all-in-one look-up site.*
 
 | **Build Status**                                                                                |
 |:-----------------------------------------------------------------------------------------------:|
