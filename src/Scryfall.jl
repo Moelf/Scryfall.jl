@@ -1,4 +1,4 @@
-module scryfall
+module Scryfall
 
 export getOracle, getImgurl
 

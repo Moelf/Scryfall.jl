@@ -1,4 +1,4 @@
-name = "scryfall"
+name = "Scryfall"
 uuid = "2741ddfe-b610-11e8-0c5b-c95511f51f88"
 authors = ["Moelf <jerryling315@gmail.com>"]
 version = "0.1.0"
