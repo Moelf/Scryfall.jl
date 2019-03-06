@@ -52,7 +52,7 @@ function getRaw(fuzzyName::AbstractString;kwargs...)
         fuzzyRequest = HTTP.request("GET","https://api.scryfall.com/cards/named?set=&fuzzy=$fuzzyName")
     end
     cardDict = JSON.parse(String(fuzzyRequest.body)) #return a dictonary for wrapper functions to use
-    JSON.print(cardDict, 2)
+    #= println(cardDict["name"]) =#
     return cardDict
 end
 
