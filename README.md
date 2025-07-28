@@ -5,7 +5,7 @@ A Julia Scryfall.com Api wapper
 
 | **Build Status**                                                                                |
 |:-----------------------------------------------------------------------------------------------:|
-[![CI](https://github.com/Moelf/Scryfall.jl/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Moelf/Scryfall.j/actions/workflows/ci.yml)
+[![CI](https://github.com/Moelf/Scryfall.jl/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Moelf/Scryfall.jl/actions/workflows/ci.yml)
 
 ## Installation
 
