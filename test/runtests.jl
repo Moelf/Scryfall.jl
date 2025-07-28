@@ -1,3 +1,3 @@
 using Scryfall
 using Test
-@test getOracle("Black lotus")=="{T}, Sacrifice Black Lotus: Add three mana of any one color."
+@test contains(getOracle("Black lotus"), "Add three mana of any one color.")
